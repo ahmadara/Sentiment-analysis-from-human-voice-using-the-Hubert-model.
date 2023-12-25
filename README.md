@@ -1,0 +1,1 @@
+To clarify, the Hubert model is not specifically designed for sentiment analysis from human voice. The Hubert model is actually a variant of the Bert model that is specifically designed for speech-related tasks, including speech recognition and speech classification. It leverages the Transformers architecture and has been pre-trained on a large amount of speech data.
